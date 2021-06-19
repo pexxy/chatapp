@@ -49,8 +49,8 @@
               style="background-color:purple; color:white"><a href="https://www.instagram.com/"
                 target="_blank">Instagram</a></button>
           </div>
-          <br />
-          </p>
+          <br/>
+          <p/>
         </div>
       </div>
     </div>
