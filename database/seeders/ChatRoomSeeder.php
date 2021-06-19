@@ -22,7 +22,7 @@ class ChatRoomSeeder extends Seeder
 
         DB::table('chat_rooms')->insert([
 
-            'name'=> 'Healthcare'
+            'name'=> 'Heallllthcare'
 
         ]);
         DB::table('chat_rooms')->insert([
