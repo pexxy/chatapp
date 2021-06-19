@@ -31,7 +31,7 @@
             <br />
             2. Healthcare
             <br />
-            3. Fashion
+            3. Fashionnnn
             <br />
             4. Lifestyle
             <br />
