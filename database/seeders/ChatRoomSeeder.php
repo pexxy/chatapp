@@ -27,7 +27,7 @@ class ChatRoomSeeder extends Seeder
         ]);
         DB::table('chat_rooms')->insert([
 
-            'name'=> 'Fashionnnn'
+            'name'=> 'Fashionnn'
 
         ]);
         DB::table('chat_rooms')->insert([
